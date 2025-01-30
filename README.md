@@ -1,4 +1,4 @@
-# HTTP Flooding Awareness & Educational Tool
+# HTTP Flooder
 
 ## Disclaimer ⚠️
 
